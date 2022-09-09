@@ -1,0 +1,25 @@
+Array : array<dataType,size> a;
+a.size();
+a.front();
+a.at();
+a.front();
+A.back();
+
+Vector : vector<int> v; vector<int> v(5,0);vector<int> a(v);
+v.capacity();
+V.size();
+for(int : v)
+v.push_back(number);
+v.pop_back();
+v.clear();
+
+Deque : deque<int> d; 
+d.push_back(num);
+d.push_front(num);
+d.pop_back();
+d.pop_front();
+d.erase(d.begin(),d.end());
+d.front();
+d.back();
+d.at();
+d.empty();
